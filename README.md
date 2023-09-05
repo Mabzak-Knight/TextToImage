@@ -9,6 +9,15 @@ Pada Colab Ganti Type Runtime menjadi GPU atau T4 GPU
 File dibagi menjadi beberapa paket, tergantung model yang saya siapkan, pilih salah satu saja mau buat gambar apa, silahkan pilih sesuai kebutuhan
 
 ----
+# Keunggulan
+
++ Sudah disertai program penerjemah jadi bisa menggunakan bahasa indonesia
++ Menggunakan StableDiffusionPipeline sehingga gambar lebih bagus
++ Dijalankan di google colab, tinggal running
++ Sudah tersedia form input sehingga modifikasi isi sangat mudah
++ Disertai panduan
+
+----
 
 # Pengetahuan
 
